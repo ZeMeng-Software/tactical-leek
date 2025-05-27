@@ -1,3 +1,6 @@
+有时候真的会被自己蠢笑
+我他妈提交代码没换Email和UserName，然后还没备份撤销提交
+
 # Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
